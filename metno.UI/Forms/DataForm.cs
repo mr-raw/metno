@@ -65,7 +65,7 @@ namespace metno.UI
             {
                 var ma = (MetAlertsDataTypes.Rss)Parser.Parse(result, ParseType.Xml, typeof(MetAlertsDataTypes.Rss));
                 foreach (var item in ma.Channel.Item)
-                {
+                { 
                     var lvi = new ListViewItem
                     {
                         Text = item.Title,
