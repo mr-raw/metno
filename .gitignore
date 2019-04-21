@@ -1,4 +1,4 @@
-﻿################################################################################
+################################################################################
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
@@ -8,3 +8,26 @@
 /metno.UI/bin/Debug
 /metno.UI/obj/Debug
 /packages/Newtonsoft.Json.12.0.1
+metno.Test.Unit/obj/Debug/metno.Test.Unit.pdb
+metno.Test.Unit/obj/Debug/metno.Test.Unit.dll
+metno.Test.Unit/obj/Debug/metno.Test.Unit.csprojAssemblyReference.cache
+metno.Test.Unit/obj/Debug/metno.Test.Unit.csproj.FileListAbsolute.txt
+metno.Test.Unit/obj/Debug/metno.Test.Unit.csproj.CoreCompileInputs.cache
+metno.Test.Unit/obj/Debug/metno.Test.Unit.csproj.CopyComplete
+metno.Test.Unit/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+metno.Test.Unit/bin/Debug/metno.pdb
+metno.Test.Unit/bin/Debug/metno.dll.config
+metno.Test.Unit/bin/Debug/metno.dll
+metno.Test.Unit/bin/Debug/metno.Test.Unit.pdb
+metno.Test.Unit/bin/Debug/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+metno.Test.Unit/bin/Debug/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+metno.Test.Unit/bin/Debug/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+metno.Test.Unit/bin/Debug/metno.Test.Unit.dll
+metno.Test.Unit/bin/Debug/Newtonsoft.Json.xml
+metno.Test.Unit/bin/Debug/Newtonsoft.Json.pdb
+metno.Test.Unit/bin/Debug/Newtonsoft.Json.dll
+metno.Test.Unit/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+metno.Test.Unit/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+metno.Test.Unit/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+metno.Test.Unit/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+packages/
