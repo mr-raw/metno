@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metno", "metno\metno.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metno.UI", "metno.UI\metno.UI.csproj", "{00701F50-B14C-4A98-9069-1F54C9700505}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metno.Test.Unit", "metno.Test.Unit\metno.Test.Unit.csproj", "{09EDC0CE-5D00-40E2-978E-D886FD9D1FA3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{00701F50-B14C-4A98-9069-1F54C9700505}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00701F50-B14C-4A98-9069-1F54C9700505}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00701F50-B14C-4A98-9069-1F54C9700505}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09EDC0CE-5D00-40E2-978E-D886FD9D1FA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09EDC0CE-5D00-40E2-978E-D886FD9D1FA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09EDC0CE-5D00-40E2-978E-D886FD9D1FA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09EDC0CE-5D00-40E2-978E-D886FD9D1FA3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

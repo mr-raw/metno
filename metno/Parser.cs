@@ -38,6 +38,5 @@ namespace metno
             var rx = new Regex("<[^>]*>");
             return rx.Replace(input, string.Empty);
         }
-
     }
 }
